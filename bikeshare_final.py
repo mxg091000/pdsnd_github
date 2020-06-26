@@ -1,4 +1,4 @@
-"Michael Garcia Udacity Project 2 bikeshare.py"
+"Michael Garcia Udacity Project 2 bikeshare.py This is the submitted version"
 
 import time
 import pandas as pd
@@ -34,7 +34,7 @@ def choice(prompt, choices=('y', 'n')):
             if list(filter(lambda x: x in choices, choice)) == choice:
                 break
 
-        prompt = ("\nSomething is not right. Please check the formatting and "
+        prompt = ("\nSomething isn't right. Please check the formatting and "
                   "be sure to enter a valid option:\n>")
 
     return choice
@@ -76,7 +76,7 @@ def get_filters():
         if confirm == 'y':
             break
         else:
-            print("\n I didnt quite understand,let's try this again! :)")
+            print("\n I didn't quite understand,let's try this again! :)")
 
 
     print('-'*40)
@@ -194,7 +194,7 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
+    """Displays statistics on the total & average trip duration."""
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
