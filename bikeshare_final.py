@@ -1,4 +1,4 @@
-"Michael Garcia Udacity Project 2 bikeshare.py"
+"Michael Garcia Udacity Project 2 bikeshare.py Adding a comment for the refactoring portion of the project"
 
 import time
 import pandas as pd
