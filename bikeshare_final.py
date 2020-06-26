@@ -54,7 +54,7 @@ def get_filters():
 
     while True:
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-        city = choice("\nFor what city or cities, do you want to select data: "
+        city = choice("\nFOR WHAT CITY OR CITIES, do you want to select data: "
                       "New York City, Chicago or Washington?\nPlease use commas "
                       "to list the names.\nYou can choose: new york city, chicago, washington or type in desired months separated by a comma.\n>", CITY_DATA.keys())
 
