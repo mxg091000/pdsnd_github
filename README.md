@@ -16,7 +16,7 @@ push changes back to the remote github repository
 Include the files used
 So far the files I have used are:
 .gitignore
-README.md
+README.md (updated to reflect sytax changes after bikeshare_final.py was submitted)
 bikeshare_final.py
 chicago.csv
 new_york_city.csv
