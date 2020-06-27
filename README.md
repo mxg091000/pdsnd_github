@@ -1,5 +1,4 @@
 ### Date created
-Include the date you created this project and README file.
 README and Project were created on June 26,2020.
 
 ### Project Title
@@ -13,7 +12,6 @@ create_modify_refactor_merge branches
 push changes back to the remote github repository
 
 ### Files used
-Include the files used
 So far the files I have used are:
 .gitignore
 README.md (updated to reflect sytax changes after bikeshare_final.py was submitted)
@@ -23,6 +21,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 The Internet
 The Knowledge hub in Udacity was EXTREMELY helpful.
